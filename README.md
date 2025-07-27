@@ -9,7 +9,7 @@ Full-stack developer skilled in Express.js, MongoDB, React, and Flutter, with ex
 * 🌍  I'm based in Ethiopia
 * ✉️  You can contact me at [henokasaye77@gmail.com](mailto:henokasaye77@gmail.com)
 * 🧠  I'm learning Flutter and Next.js
-* 🤝  I'm open to collaborating on I'm open to collaborating on mobile and web apps that make a positive impact and are genuinely useful to the community.
+* 🤝   I'm open to collaborating on mobile and web apps that make a positive impact and are genuinely useful to the community.
 
 ### Skills
 
