@@ -3,17 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henokasaye&label=Profile%20views&color=0e75b6&style=flat" alt="henokasaye" /> </p>
 
-- 🔭 .Net **Brana Erp**
-
-- 🌱 I’m currently learning **Flutter**
-
 - 👨‍💻 All of my projects are available at [[https://henokasaye.vercel.app/](https://henok-asaye.vercel.app/)](https://henokasaye.vercel.app/)
 
 - 💬 Ask me about **.Net,flutter,Nest js**
 
 - 📫 How to reach me **henokasaye77@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19BjKvj3o6Cec2-QLlopleCut9uvB1OF-/view](https://drive.google.com/file/d/19BjKvj3o6Cec2-QLlopleCut9uvB1OF-/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
