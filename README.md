@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **.Net,flutter,Nest js,Angular js,Next js**
 
-- 📫 How to reach me **henokasaye77@gmail.com**
+- 📫 How to reach me **asayehenok95@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
