@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [[https://henokasaye.vercel.app/](https://henok-asaye.vercel.app/)]
 
-- 💬 Ask me about **.Net, flutter, Nest js, Angular js, Next js**
+- 💬 Ask me about **.Net, flutter, Nest js, Fast Api,Angular js,Next js**
 
 - 📫 How to reach me **asayehenok95@gmail.com**
 
