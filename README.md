@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm HenokAsaye</h1>
 <h3 align="center">FullStack Developer | Mobile Application Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henokasaye&label=Profile%20views&color=0e75b6&style=flat" alt="henokasaye" /> </p>
-
 - 👨‍💻 All of my projects are available at [[https://henokasaye.vercel.app/](https://henok-asaye.vercel.app/)]
 
-- 💬 Ask me about **.Net, flutter, Nest js, Fast Api,Angular js,Next js**
+- 💬 Ask me about **.Net, flutter, Nest js, Fast Api,Angular js,Next js,Express js,React js**
 
 - 📫 How to reach me **asayehenok95@gmail.com**
 
