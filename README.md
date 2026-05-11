@@ -1,4 +1,3 @@
-```
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
@@ -26,13 +25,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/amikingo/" target="_blank">
+  <a href="https://www.linkedin.com/in/henokasaye/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/@zeekingo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="amikingo201@gmail.com" target="_blank">
+  <a href="henokasaye77@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -40,17 +39,16 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amikingo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=amikingo&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  /> -->
+  <img src="https://streak-stats.demolab.com?user=HenokAsaye&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenokAsaye&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph g[...]
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amikingo/amikingo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amikingo/amikingo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https:https://github.com/amikingo/amikingo/blob/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenokAsaye/HenokAsaye/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenokAsaye/HenokAsaye/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://github.com/HenokAsaye/HenokAsaye/blob/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
-```
